@@ -7,8 +7,8 @@ body {
 }
 
 header {
-    background-color: #007BFF; /* Changed from green to blue */
-    color: white;
+    background-color:skyblue;
+    color: black;
     padding: 20px 0;
 }
 
@@ -59,7 +59,7 @@ button:hover {
 footer {
     text-align: center;
     padding: 2rem;
-    color: #666;
-    background-color: #ecf0f1;
+    color:black;
+    background-color: skyblue;
     margin-top: 2rem;
 }
