@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background: beige;
+  background: skyblue;
   margin: 0;
   padding: 0;
 }
@@ -52,4 +52,11 @@ input {
   margin-top: 10px;
   font-weight: bold;
   color: green;
+}
+footer {
+    text-align: center;
+    padding: 2rem;
+    color:black;
+    background-color: grey;
+    margin-top: 1rem;
 }
